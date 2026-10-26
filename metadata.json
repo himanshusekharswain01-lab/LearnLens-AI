@@ -1,0 +1,6 @@
+{
+  "name": "LearnLens AI",
+  "description": "AI-powered Learning Diagnostic and Adaptive Remediation Platform converting student performance data into actionable teacher insights, misconception detection, and automated Google Docs reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
